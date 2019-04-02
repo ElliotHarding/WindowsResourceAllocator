@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\elliot\documents\github\windowsresourceallocator\windowsresourceallocator\main.cpp(63): warning C4101: 'hProcess': unreferenced local variable
+  WindowsResourceAllocator.vcxproj -> C:\Users\Elliot\Documents\GitHub\WindowsResourceAllocator\Debug\WindowsResourceAllocator.exe
